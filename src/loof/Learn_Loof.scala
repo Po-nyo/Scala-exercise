@@ -1,6 +1,6 @@
 package loof
 
-object LearnLoof {
+object Learn_Loof {
 
   def main(args: Array[String]): Unit = {
     var (x, y, z, c, python, java) = (1, 2, 3, true, false, "no!")
